@@ -36,29 +36,6 @@ Se e compartilhado entre verticais -> Gepetto. Se e especifico de dominio -> ver
 | **e-artesan** (este) | Organizacao — time, cultura, operacao, estrategia |
 | **apps** | Monorepo de codigo — Gepetto (plataforma) + Sitia (vertical) |
 
----
-
-## Time e Cultura
-
-| Documento | Conteudo |
-|-----------|----------|
-| [README](./time/README.md) | Time, equity, ritmo semanal, fit cultural |
-| [Cultura](./time/CULTURA.md) | Pack cultural — valores, principios, anti-valores |
-| [Operacao](./time/OPERACAO.md) | Sistema operacional semanal — dailys, retros, cerimonias |
-| [Delegacao](./time/DELEGACAO.md) | Roadmap por pessoa, entregas por fase |
-| [Estrutura Societaria](./time/ESTRUTURA-SOCIETARIA.md) | Equity, vesting, governanca, protecoes |
-| [Roles](./time/) | Job descriptions individuais (01-07) |
-
----
-
-## Principios
-
-1. **Artesanato sobre velocidade** — Qualidade nao e negociavel
-2. **LLM nunca faz conta** — Calculadora MCP para toda aritmetica
-3. **Contratos antes de codigo** — Interfaces TypeScript primeiro
-4. **Observabilidade de decisao** — Saber *por que* o agente decidiu
-5. **Presenca, nao barulho** — Marketing que espera ser encontrado
-6. **Fail gracefully** — Resposta adequada quando algo falha
 
 ---
 
