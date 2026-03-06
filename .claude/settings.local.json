@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(python3:*)",
+      "Bash(do:*)",
+      "WebFetch(domain:exame.com)",
+      "WebFetch(domain:ciorganicos.com.br)",
+      "WebFetch(domain:www.comprerural.com)",
+      "WebFetch(domain:manejebem.com)",
+      "WebFetch(domain:farmcont.com.br)",
+      "WebFetch(domain:www.manejebem.com.br)",
+      "WebFetch(domain:www.embrapa.br)",
+      "WebFetch(domain:pt.linkedin.com)",
+      "WebFetch(domain:www.projetodraft.com)",
+      "Bash(find:*)",
+      "Bash(pnpm:*)",
+      "Bash(npx vitest:*)",
+      "WebFetch(domain:developers.cloudflare.com)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "linear"
+  ]
+}

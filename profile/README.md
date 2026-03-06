@@ -6,11 +6,12 @@ Construimos ferramentas de IA para quem produz.
 
 ---
 
-### Sitia — Conselheira de gestao financeira rural
+### Sítia — A conselheira do pequeno produtor no WhatsApp
 
-Gestao financeira conversacional para pequenos produtores rurais via WhatsApp. O produtor conversa naturalmente e recebe insights sobre receita, custo, margem e caixa.
+Gestão completa — financeiro e rebanho cruzados — desde a primeira mensagem. O produtor conversa naturalmente (texto ou áudio) e recebe insights sobre receita, custo, margem, rebanho e custo por animal.
 
 **Primeiro mercado:** Cariri, PB — caprinos, bovinos de leite, queijo artesanal.
+**Visão:** A camada de dados proprietários para o agro brasileiro.
 
 ### Gepetto — Plataforma de agentes IA
 
